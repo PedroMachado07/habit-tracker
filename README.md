@@ -13,7 +13,7 @@ HTML e css<br>
 JavaScript<br>
 Git e Github<br>
 Figma<br>
-<p align="center"><strong>Projeto</strong>
+<p align="center"><strong>Project</strong><br>
 Habits is an app to help track habits.
 </p>
 
