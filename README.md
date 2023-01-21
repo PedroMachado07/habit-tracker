@@ -13,7 +13,7 @@ HTML e css<br>
 JavaScript<br>
 Git e Github<br>
 Figma<br>
-<p align="center"><strong>Visit the project</strong>
+<p align="center"><strong>Visit the project</strong><br>
 http://pedromachado07.github.io/habit-tracker
 </p>
 <p align="center"><strong>Project</strong><br>
