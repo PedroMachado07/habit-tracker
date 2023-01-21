@@ -13,6 +13,9 @@ HTML e css<br>
 JavaScript<br>
 Git e Github<br>
 Figma<br>
+<p align="center"><strong>Visit the project</strong>
+http://pedromachado07.github.io/habit-tracker
+</p>
 <p align="center"><strong>Project</strong><br>
 Habits is an app to help track habits.
 </p>
