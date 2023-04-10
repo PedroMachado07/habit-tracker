@@ -16,10 +16,10 @@ Figma<br>
 <p align="center"><strong>Visit the project</strong><br>
 http://pedromachado07.github.io/habit-tracker
 </p>
-<p align="center"><strong>Project</strong><br>
-Habits is an app to help track habits.
+<p align="center"><strong>Project made by</strong><br>
+www.linkedin.com/in/pedrobmachado
 </p>
-Project made by www.linkedin.com/in/pedrobmachado
+
 
 
 
