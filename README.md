@@ -19,5 +19,7 @@ http://pedromachado07.github.io/habit-tracker
 <p align="center"><strong>Project</strong><br>
 Habits is an app to help track habits.
 </p>
+Project made by www.linkedin.com/in/pedrobmachado
+
 
 
