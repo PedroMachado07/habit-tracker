@@ -7,7 +7,7 @@ This site was made in an exclusive event promoted by Rockeseat, called NLW.<br/>
 </p>
 <br>
 <p align="center">
-<strong> Tecnologias usadas:
+<strong> technologies:
 </strong><br>
 HTML e css<br>
 JavaScript<br>
